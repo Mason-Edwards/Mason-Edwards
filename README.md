@@ -1,5 +1,5 @@
-👋 Hey, Im Mason.
-Im a recent university graduate and Junior Software Engineer based near London
+👋 Hey, Im Mason.  
+Im a recent university graduate and Junior Software Engineer based near London  
 working in Formula 1.
 
 <!---
