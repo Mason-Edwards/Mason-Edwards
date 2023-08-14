@@ -1,6 +1,7 @@
 👋 Hey, Im Mason.  
-Im a recent university graduate and Junior Software Engineer based near London  
-working in Formula 1.
+I'm currently working as a software engineer for [GE Aerospace](https://www.geaerospace.com/) based in Cheltenham.
+Don't be afraid to get in contact!
+
 
 <!---
 Mason-Edwards/Mason-Edwards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
